@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,cpp,html,js,css,mysql,vscode,java" />
+    <img src=<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> />
   </a>
 </p>
 
